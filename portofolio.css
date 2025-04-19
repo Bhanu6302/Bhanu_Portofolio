@@ -165,6 +165,7 @@ div>.about-i{
   @media (max-width: 830px) {
     .hamburger {
       display: inline-block;
+      margin-top: -0.4rem;
     }
 
     div>.about-i{
