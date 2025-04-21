@@ -44,12 +44,16 @@ section {
     padding: 0rem 0rem 0rem 1rem;
 }
 
+div>a{
+  color:#4500a0;
+}
 
 li{
     list-style: none;
 }
 
 .nav-links > li >a{
+    color:#4500a0;
     text-decoration: none;
 }
 
